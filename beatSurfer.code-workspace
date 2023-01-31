@@ -1,0 +1,24 @@
+{
+    "folders": [
+        {
+            "path": ".",
+            "name": "BeatSurfer"
+        },
+        {
+            "path": "apps/nuxt",
+            "name": "NuxtApp"
+        },
+        {
+            "path": "apps/svelte",
+            "name": "SvelteApp"
+        },
+        {
+            "path": "apps/next",
+            "name": "NextApp"
+        },
+        {
+            "path": "packages",
+            "name": "Packs"        
+        }
+    ]
+}
